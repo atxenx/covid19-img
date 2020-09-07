@@ -1,5 +1,5 @@
 {
-  "name": "covid-case-image-api",
+  "name": "covid19-athens-api",
   "version": "1.0.0",
   "description": "An Api that provides covid-19 stats in a beautiful image format.",
   "main": "bot.js",
